@@ -1,4 +1,4 @@
-Sign Langauge Detection
+# Sign Langauge Detection
 
   `Sign_Language.ipynb` is a jupyter notebook created on colab to recognize sign language digits from 0 to 9 from pictures with hand       signs. 
 
